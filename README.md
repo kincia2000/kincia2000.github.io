@@ -1,1 +1,0 @@
-# kincia2000.github.io
