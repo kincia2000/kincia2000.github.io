@@ -1,0 +1,23 @@
+  <HTML> 
+
+    </HEAD>
+         
+    <BODY>     
+       <H1 style="text-algin: center; color; red" 
+        <H1>Strona o mnie</H1><BR>
+         imię: Kinga<BR>
+         nazwisko: Złydaszyk
+<P style="margin-left: 50px; background-color: pink;
+padding: 20px 20px 20 px 50 px "> Jestem uczennicą klasy ósmej </P>
+   
+<P style="margin-left: 50px; background-color: pink;
+padding: 20px 20px 20 px 50 px; "> Mam brązowe oczy </P>
+
+<P style="margin-left: 50px; background-color: pink;
+padding: 20px 20px 20 px 50 px; "> Chodzę do szkoły w Niedźwiedziu </P>  
+
+<IMG src="kolorowekredki.png.jpg"> width="300">
+   
+   </BODY>
+   
+   </HTML>
